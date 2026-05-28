@@ -1,9 +1,3 @@
-"""
-scanner.py - Multithreaded TCP Port Scanner
-Course: 605346 - Information & Network Security Programming
-University of Petra - Faculty of Information Technology
-"""
-
 import socket
 import argparse
 import os
